@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="noise_type_pref">noise_type</string>
+    <string name="vol_pref">vol</string>
+    <string name="fade_in_pref">fade_in</string>
+    <string name="fade_out_pref">fade_out</string>
+    <string name="auto_shutoff_pref">auto_shutoff</string>
+    <string name="shutoff_hour_pref">shutoff_hour</string>
+    <string name="shutoff_minute_pref">shutoff_minute</string>
+    <string name="buffer_pref">buffer</string>
+    <string name="type_white">white</string>
+    <string name="type_pink">pink</string>
+    <string name="time">%1$d:%2$s%3$d%4$s</string>
+    <string name="noise_type">Noise Type:</string>
+    <string name="white">White</string>
+    <string name="pink">Pink</string>
+    <string name="volume">Volume</string>
+    <string name="volume_slider">Slider for volume.</string>
+    <string name="fade_in">Fade In:</string>
+    <string name="fade_in_time">Slider for the fade in time.</string>
+    <string name="fade_out">Fade Out:</string>
+    <string name="fade_out_time">Slider for fade out time.</string>
+    <string name="auto_shutoff">Auto Shutoff:</string>
+    <string name="buffer_size">Buffer Size:</string>
+    <string name="version">v%1$s</string>
+    <string name="image_of_me">Image of me.</string>
+    <string name="me">App created by Sam Lavin</string>
+    <string name="website">Website</string>
+    <string name="project_repository">Project Repository</string>
+    <string name="buy_me_a_coffee">Buy Me a Coffee (or a tea in my case)</string>
+    <string name="app_name">Noise Generator</string>
+    <string name="play_pause">Play/pause button.</string>
+    <string name="about">About</string>
+    <string name="first_fragment_label">Noise Generator</string>
+    <string name="second_fragment_label">About</string>
+</resources>
