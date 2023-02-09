@@ -52,7 +52,15 @@ class AudioHandler(var isPink: Boolean, var vol: Int, var fadeIn: Int, var fadeO
         }
         else
         {
-            stop()
+            if (beginFade)
+            {
+                samplesFaded = 0
+                beginFade = false
+            }
+            else
+            {
+                stop()
+            }
         }
     }
 

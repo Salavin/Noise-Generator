@@ -7,7 +7,6 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.navigation.fragment.findNavController
 import `in`.samlav.noisegenerator.databinding.FragmentSecondBinding
 
 /**
@@ -38,7 +37,7 @@ class SecondFragment : Fragment()
             goToUrl("https://samlav.in")
         }
         binding.buttonProjectRepository.setOnClickListener {
-            goToUrl("https://github.com/Salavin/Ear-Trainer")
+            goToUrl("https://github.com/Salavin/Noise-Generator")
         }
         binding.buttonBuyMeACoffee.setOnClickListener {
             goToUrl("https://www.buymeacoffee.com/salavin")

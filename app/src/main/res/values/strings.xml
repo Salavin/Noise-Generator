@@ -7,6 +7,8 @@
     <string name="auto_shutoff_pref">auto_shutoff</string>
     <string name="shutoff_hour_pref">shutoff_hour</string>
     <string name="shutoff_minute_pref">shutoff_minute</string>
+    <string name="show_eq_pref">show_eq</string>
+    <string name="fab_location_pref">fab_location</string>
     <string name="buffer_pref">buffer</string>
     <string name="type_white">white</string>
     <string name="type_pink">pink</string>
@@ -33,4 +35,8 @@
     <string name="about">About</string>
     <string name="first_fragment_label">Noise Generator</string>
     <string name="second_fragment_label">About</string>
+    <string name="show_advanced">Show Advanced</string>
+    <string name="show_eq">Show EQ:</string>
+    <string name="fab_location">Action Button Location:</string>
+    <string name="advanced_options"><i>Advanced Options:</i></string>
 </resources>
